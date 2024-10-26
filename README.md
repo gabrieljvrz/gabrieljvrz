@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aqui você pode conhecer um pouco sobre mim e as tecnologias, linguagens e ferramentas que uso.</p>
+<p align="center">Aqui você pode conhecer um pouco sobre mim e as tecnologias, linguagens e ferramentas que uso.</p>
 
 ###
 
