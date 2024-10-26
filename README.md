@@ -1,48 +1,21 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Perfil</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f9f9f9;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .linguagens img {
-            width: 50px; /* Tamanho das logos */
-            margin: 5px;
-        }
-        .redes-sociais a {
-            margin-right: 15px;
-            text-decoration: none;
-            color: #0073e6;
-        }
-    </style>
-</head>
-<body>
+# Olá, me chamo Gabriel Jeronimo, seja bem-vindo!
+Aqui você pode conhecer um pouco sobre mim e as tecnologias, linguagens e ferramentas que uso.
+Você pode entrar em contato comigo pelo e-mail: [gabrieljvcs@gmail.com] (mailto:gabrieljvcs@gmail.com)
 
-    <h1>Olá, eu sou [Seu Nome]!</h1>
-    <p>Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender mais. Aqui você pode conhecer um pouco sobre mim e as tecnologias que uso.</p>
 
-    <h2>Minhas Linguagens</h2>
-    <div class="linguagens">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/JavaScript-logo.png" alt="JavaScript">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Java_logo_and_wordmark.svg" alt="Java">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Octicons-mark-github.svg" alt="GitHub">
-    </div>
+## Ferramentas e Linguagens:
+- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/JavaScript-logo.png) [JavaScript](https://www.javascript.com/)
+- ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg) [Java](https://www.java.com/)
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) [Python](https://www.python.org/)
+- ![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png) [C](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+- ![MySQL](https://upload.wikimedia.org/wikipedia/en/b/b2/MySQL.svg) [MySQL](https://www.mysql.com/)
+- ![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/3/3e/Visual_Studio_Code_1.35_icon.svg) [Visual Studio Code](https://code.visualstudio.com/)
+- ![Figma](https://upload.wikimedia.org/wikipedia/commons/3/38/Figma-logo.svg) [Figma](https://www.figma.com/)
+- ![Canva](https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Canva_logo.svg/1200px-Canva_logo.svg.png) [Canva](https://www.canva.com/)
 
-    <h2>Minhas Redes Sociais</h2>
-    <div class="redes-sociais">
-        <a href="https://linkedin.com/in/seunome" target="_blank">LinkedIn</a>
-        <a href="https://github.com/seunome" target="_blank">GitHub</a>
-        <a href="https://twitter.com/seunome" target="_blank">Twitter</a>
-    </div>
-
-</body>
-</html>
+## Minhas Redes Sociais:
+- [LinkedIn](https://www.linkedin.com/in/gabrielvrz/)
+- [Instagram](https://instagram.com/gabrielvrz)
+- [Portfólio](https://portfolio-gabriel-jeronimo.netlify.app)
